@@ -1,6 +1,5 @@
 # TEB2043-Data-Science-LAB
-Using R programming
-This repository contains lab tasks for the TEB1113 Algorithm and Data Structure course (May 2025 session).
+This repository contains lab tasks for the TEB2043 Data Science course (January 2026 session).
 ---
 
 ## 📅 Lab Tasks
